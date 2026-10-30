@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Atlas Tools & Machinery//DeWALT//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Toronto
+BEGIN:STANDARD
+DTSTART:20261101T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:dewalt-bf-2026@atlas-machinery.com
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=America/Toronto:20261113T080000
+DTEND;TZID=America/Toronto:20261113T180000
+RRULE:FREQ=DAILY;COUNT=2
+SUMMARY:DeWALT Black Friday Event at Atlas Tools & Machinery (in store only)
+DESCRIPTION:In store only at 111 Creditview Road\, Vaughan and 871 Islington Ave\, Toronto. 8 am to 6 pm. https://www.atlas-machinery.com/dewalt-promotions/
+LOCATION:Atlas Tools & Machinery
+URL:https://www.atlas-machinery.com/dewalt-promotions/
+END:VEVENT
+END:VCALENDAR
