@@ -17,7 +17,16 @@ UID:milwaukee-bf-2026@atlas-machinery.com
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Toronto:20261127T080000
 DTEND;TZID=America/Toronto:20261127T180000
-RRULE:FREQ=DAILY;COUNT=2
+SUMMARY:Milwaukee Black Friday Event at Atlas Tools & Machinery (in store only)
+DESCRIPTION:In store only at 111 Creditview Road\, Vaughan and 871 Islington Ave\, Toronto. 8 am to 6 pm. https://www.atlas-machinery.com/milwaukee-promotions/
+LOCATION:Atlas Tools & Machinery
+URL:https://www.atlas-machinery.com/milwaukee-promotions/
+END:VEVENT
+BEGIN:VEVENT
+UID:milwaukee-bf-2026-day2@atlas-machinery.com
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Toronto:20261128T080000
+DTEND;TZID=America/Toronto:20261128T180000
 SUMMARY:Milwaukee Black Friday Event at Atlas Tools & Machinery (in store only)
 DESCRIPTION:In store only at 111 Creditview Road\, Vaughan and 871 Islington Ave\, Toronto. 8 am to 6 pm. https://www.atlas-machinery.com/milwaukee-promotions/
 LOCATION:Atlas Tools & Machinery
